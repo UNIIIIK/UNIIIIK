@@ -1,6 +1,6 @@
 <!-- ================= QUANTUM BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=ELIZAR%20JAMES%20M.%20SANCHEZ&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20System%20Architect%20|%20Code%20Alchemist&descSize=18&descAlignY=55&descColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=ELIZAR%20JAMES%20M.%20SANCHEZ&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|&descSize=18&descAlignY=55&descColor=ffffff"/>
 </p>
 
 <!-- ================= MATRIX RAIN ANIMATION ================= -->
@@ -10,13 +10,13 @@
 
 <div align="center">
   
-  [![Matrix Code](https://img.shields.io/badge/ENTER_THE_MATRIX-00FF00?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000)](https://github.com/UNIIIIK)
+  [![Matrix Code](https://img.shields.io/badge/WELCOME-00FF00?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000)](https://github.com/UNIIIIK)
   
 </div>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Welcome+to+My+Quantum+Coding+Universe;🚀+Building+Systems+That+Solve+Real+Problems;💡+Full+Stack+Developer;⚡+Mobile+%7C+Web+%7C+Cloud;🔮+Future+Software+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Welcome+to+My+Universe;🚀+Building+Systems+That+Solve+Real+Problems;💡+Full+Stack+Developer;⚡+Mobile+%7C+Web+%7C"/>
 </p>
 
 <!-- ================= NEON DIVIDER UI ================= -->
@@ -32,7 +32,7 @@
 
 <!-- ================= VISITOR COUNTER + METRICS ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UNIIIIK&label=QUANTUM%20VISITORS&color=00F7FF&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=UNIIIIK&label=VISITORS&color=00F7FF&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-00F7FF?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117"/>
   &nbsp;
