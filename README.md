@@ -110,22 +110,8 @@
 
 <!-- ================= NEON DIVIDER ================= -->
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:00F7FF,100:FF00FF&text=DEVELOPMENT%20PROCESS&fontColor=ffffff&fontSize=40&animation=fadeIn&stroke=00F7FF&strokeWidth=2"/>
-</p>
 
-```mermaid
-graph LR
-A[⚡ THINK] --> B[🎨 DESIGN]
-B --> C[🔨 BUILD]
-C --> D[📈 IMPROVE]
-D --> E[🔄 REPEAT]
-E --> A
-```
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
 
 <!-- ================= ANIMATED PROJECT CARDS ================= -->
 
@@ -217,15 +203,7 @@ E --> A
 
 </div>
 
-<!-- ================= QUANTUM VISUAL INTERFACE ================= -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:FF00FF,100:00F7FF&height=100&section=header&text=QUANTUM%20INTERFACE%20ACTIVE&fontSize=30&fontColor=ffffff&animation=twinkling"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
-</p>
 
 <!-- ================= CONNECT ================= -->
 
