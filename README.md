@@ -1,7 +1,6 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">⚡ ELIZAR JAMES M. SANCHEZ ⚡</h1>
-<h3 align="center">aka UNIIIIK | Future Software Engineer</h3>
 
 <p align="center">
 🚀 Coding the Future | 🧠 Tech Explorer | 💻 Full Stack Learner
@@ -9,7 +8,7 @@
 
 ---
 
-# 🌌 Welcome to My Quantum Coding Universe
+# 🌌 Welcome to MY Coding Universe
 
 Hello! I'm **Elizar James M. Sanchez**
 
@@ -153,6 +152,6 @@ Just like **quantum physics**.
 <p align="center">
 
 ⭐ If you like my work, consider following me!
-
-</p>
 ![snake gif](https://github.com/UNIIIIK/UNIIIIK/blob/output/github-contribution-grid-snake.svg)
+</p>
+
