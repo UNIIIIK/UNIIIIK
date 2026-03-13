@@ -1,157 +1,166 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">⚡ ELIZAR JAMES M. SANCHEZ ⚡</h1>
+<!-- ================= QUANTUM BANNER ================= -->
 
 <p align="center">
-🚀 Coding the Future | 🧠 Tech Explorer | 💻 Full Stack Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ELIZAR%20JAMES%20M.%20SANCHEZ&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+My+Quantum+Coding+Universe;Software+Developer;Full+Stack+Learner;System+Builder;Future+Software+Engineer"/>
 </p>
 
 ---
 
-# 🌌 Welcome to MY Coding Universe
+# ⚛️ Developer Identity
 
-Hello! I'm **Elizar James M. Sanchez**
 
-A developer who loves building **apps, systems, and digital solutions**.
+Name: Elizar James M. Sanchez
+Username: UNIIIIK
+Location: Philippines
+Role: Software Developer
+Focus: Web Apps • Mobile Apps • Systems
 
-Think of my coding journey like **quantum physics**:
 
-> Small code → Big impact ⚛️
+I build **systems that solve real problems**.
 
-Every project I create is another **particle in my coding universe.**
-
----
-
-# 👨‍💻 About Me
-
-🔹 Name: **Elizar James M. Sanchez**  
-🔹 Username: **UNIIIIK**  
-🔹 Location: Philippines 🇵🇭  
-🔹 Passion: Software Development  
-🔹 Focus: Web Apps • Mobile Apps • Systems  
+From **food rescue platforms** to **laboratory inventory systems**, my goal is to create software that improves real-world processes.
 
 ---
 
-# ⚡ Tech Stack
 
-### Languages
+My development process:
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+Think → Design → Build → Improve → Repeat
+
+
+---
+
+# ⚡ Technology Stack
+
+### Programming Languages
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 
-### Frameworks / Tools
+---
+
+### Frameworks & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
 
-### Database
+---
+
+### Database Systems
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 Development Analytics Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UNIIIIK&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UNIIIIK&show_icons=true&theme=tokyonight&border_radius=10"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNIIIIK&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNIIIIK&layout=compact&theme=tokyonight&border_radius=10"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UNIIIIK&theme=tokyo-night"/>
-
----
-
-# 🧠 My Coding Philosophy
-
-```
-Think.
-Design.
-Build.
-Improve.
-Repeat.
-```
-
-Good software is not just written.
-
-It is **engineered.**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UNIIIIK&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🍽 MealDeal
-A mobile app that rescues surplus food and distributes it to communities.
+## 🍽 MealDeal
+Community-based mobile application designed to **rescue surplus food from businesses and redistribute it to the community**.
 
-Tech Used:
+Technologies:
+- Flutter
+- Firebase
+- React Admin Dashboard
 
-Flutter  
-Firebase  
-React Admin Dashboard  
-
----
-
-### 🧪 Laboratory Reagent Inventory System
-A system for managing medical laboratory reagents and stock levels.
-
-Tech Used:
-
-HTML  
-CSS  
-JavaScript  
+Impact:
+- Reduce food waste
+- Improve community food access
 
 ---
 
-### 🐄 Livestock Owner Platform
-A digital platform for livestock farmers.
+## 🧪 Laboratory Reagent Inventory System
 
-Tech Used:
+System built to manage **medical laboratory reagent stock and monitoring**.
 
-PHP  
-MySQL  
+Technologies:
+- HTML
+- CSS
+- JavaScript
+
+Features:
+- Inventory tracking
+- Reagent monitoring
+- Usage logging
 
 ---
 
-# 🏆 Achievements
+## 🐄 Livestock Owner Platform
 
-🏅 GitHub Learner  
-🏅 Software Developer in Progress  
-🏅 Capstone System Developer  
+Digital platform connecting **livestock farmers and farm management tools**.
+
+Technologies:
+- PHP
+- MySQL
+
+Features:
+- Livestock data management
+- Farm record tracking
+- Digital platform for livestock owners
+
+---
+
+# 🛰️ Developer Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UNIIIIK&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌌 Quantum Visual Interface
+
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
+</p>
 
 ---
 
 # 📬 Connect With Me
 
-GitHub  
+GitHub Profile
+
 https://github.com/UNIIIIK
-
----
-
-# ⚡ Fun Fact
-
-> The best programmers think like **scientists**.
-
-Experiment  
-Break things  
-Fix things  
-Improve things  
-
-Just like **quantum physics**.
 
 ---
 
 <p align="center">
 
-⭐ If you like my work, consider following me!
-![snake gif](https://github.com/UNIIIIK/UNIIIIK/blob/output/github-contribution-grid-snake.svg)
+⭐ Thank you for visiting my GitHub Universe
+
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
