@@ -10,11 +10,7 @@
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 </p>
 
-<div align="center">
 
-[![Matrix Code](https://img.shields.io/badge/WELCOME-00FF00?style=for-the-badge\&logo=matrix\&logoColor=black\&labelColor=000000)](https://github.com/UNIIIIK)
-
-</div>
 
 <!-- ================= TYPING ANIMATION ================= -->
 
