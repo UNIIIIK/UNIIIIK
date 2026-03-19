@@ -168,7 +168,7 @@
 <h2 align="center">🏆 Achievement Matrix</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=UNIIIIK&theme=tokyonight&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/00F7FF/UNIIIIK" />
 </p>
 
 <!-- ================= MATRIX HACKER ANIMATION ================= -->
