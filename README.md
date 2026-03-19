@@ -30,15 +30,6 @@
 
 </div>
 
-<!-- ================= VISITOR COUNTER + METRICS ================= -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UNIIIIK&label=VISITORS&color=00F7FF&style=for-the-badge&logo=eye&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-00F7FF?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Coding%20...-00FF00?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117"/>
-</p>
 
 <!-- ================= 3D CONTRIBUTION CUBE ================= -->
 
@@ -141,8 +132,8 @@
 
 <div align="center">
 
-<a href="https://github.com/UNIIIIK/LabInventory">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UNIIIIK&repo=LabInventory&theme=tokyonight&hide_border=true&border_radius=15" width="100%"/>
+<a href="https://github.com/UNIIIIK/North-Med">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UNIIIIK&repo=North-Med&theme=tokyonight&hide_border=true&border_radius=15" width="100%"/>
 </a>
 
 <br><br>
@@ -177,7 +168,7 @@
 <h2 align="center">🏆 Achievement Matrix</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UNIIIIK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=UNIIIIK&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 <!-- ================= MATRIX HACKER ANIMATION ================= -->
@@ -185,7 +176,7 @@
 <h2 align="center">👨‍💻 System Status</h2>
 
 <p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-1b7f-4c8c-8f7f-ff1b2a7a8f9a" width="100%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
 </p>
 
 <div align="center">
@@ -206,17 +197,19 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+
 <a href="https://github.com/UNIIIIK">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=181717"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+<a href="mailto:sanchezjamesss02@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+<a href="https://www.linkedin.com/in/elizar-james-sanchez-6848703b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 <!-- ================= FOOTER ================= -->
