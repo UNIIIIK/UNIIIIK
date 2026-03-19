@@ -168,7 +168,12 @@
 <h2 align="center">🏆 Achievement Matrix</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/UNIIIIK" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UNIIIIK&theme=tokyonight&utcOffset=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UNIIIIK&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UNIIIIK&theme=tokyonight"/>
 </p>
 
 <!-- ================= MATRIX HACKER ANIMATION ================= -->
